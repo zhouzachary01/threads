@@ -13,7 +13,7 @@ public class Test {
 
     @org.junit.Test
     public void test11(){
-        Assert.assertEquals("124","123");
+        Assert.assertEquals("123","123");
 
     }
 

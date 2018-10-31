@@ -13,13 +13,13 @@ public class Test {
 
         String newString = new String ();
 
-        /*MyList myList = new MyList();
+        MyList myList = new MyList();
         ThreadA a = new ThreadA(myList);
         a.setName("A");
         a.start();
         ThreadB b = new ThreadB(myList);
         b.setName("B");
-        b.start();*/
+        b.start();
     }
 
 }
